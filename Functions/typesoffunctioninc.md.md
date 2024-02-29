@@ -1,7 +1,7 @@
 +++ title = "Types Of Functions in C" 
 weight = 2 
 description = "Explore different types of functions in C, including examples of functions with no parameters and no return type, functions with parameters and no return type, functions with no parameters and return type, and functions with parameters and return type."
- keywords = "types of functions in C, functions with parameters, functions with return type, functions with no return type." ++
+ keywords = "types of functions in C, functions with parameters, functions with return type, functions with no return type." +++
 
 
 ### Types Of Function
