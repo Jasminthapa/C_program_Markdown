@@ -1,4 +1,4 @@
-+++ title = "Do While Loop in C" weight =5  description = "Looping is repeating a specific set of commands until conditions are not completed. Learn to use do while loop in C" keywords = "C do while loop, do while loop in C." ++
++++ title = "Do While Loop in C" weight =5  description = "Looping is repeating a specific set of commands until conditions are not completed. Learn to use do while loop in C" keywords = "C do while loop, do while loop in C." +++
 
 ### Do While Loop
 Do while loop is used to run a block of code multiple times. The loop’s body will be executed first, and then the condition is tested.It executes block of statements at least for once.
