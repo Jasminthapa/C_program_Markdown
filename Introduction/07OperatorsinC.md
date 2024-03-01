@@ -20,6 +20,7 @@ For eg: Suppose the given expression is 5 + 4. Here 5 and 4 are operands, and + 
 - Logical Operators
 - Relational Operators
 - Conditional/Ternary Operators
+  
 #### Arithmetic Operators
 Arithmetic operators are the most common types of operators. They perform operations like addition, subtraction, multiplication, division,modulus etc.
 - **Addition (+)**: Adds two operands.
@@ -27,6 +28,7 @@ Arithmetic operators are the most common types of operators. They perform operat
 - **Multiplication (*)**: Multiplies two operands.
 - **Division (/)**: Divides one operand by another.
 - **Modulo or Remainder (%)**: Returns the remainder of division.
+
 ```c
 #include <stdio.h>
 int main() {
