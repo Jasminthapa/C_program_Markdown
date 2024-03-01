@@ -41,6 +41,7 @@ These are the basic datatypes are used in c. Primary data types are the basic bu
 | `char`              | Used for representing individual characters.               | `char letter = 'A';`        |
 | `float`             | Used for representing single-precision floating-point numbers. | `float pi = 3.14;`         |
 | `double`            | Used for representing double-precision floating-point numbers. | `double price = 9.99;`     |
+
 1) **Integer datatype**
 
 Integer data types are used to store whole number.In C, the signed are used to  and unsigned modifiers are used to store both positive and negative values and  unsinged are store only non-negative values.
@@ -52,6 +53,7 @@ Integer data types are used to store whole number.In C, the signed are used to  
 | `int` or `signed int`     | Represents signed integers within a specific range.        | `int age = 25;`                            |
 | `long` or `signed long int`| Represents a wider range of signed integers.               | `long population = 7000000000L;`          |
 | `unsigned long int`       | Represents non-negative long integers.                     | `unsigned long int distance = 1500;`      |
+
 2) **Floating data type**
 
 store fractional part and its value.
@@ -61,10 +63,11 @@ store fractional part and its value.
 | `float`         | Single-precision floating-point number.          | `float pi = 3.14;`         |
 | `double`        | Double-precision floating-point number.          | `double price = 9.99;`     |
 | `long double`   | Extended precision floating-point number.        | `long double bigValue = 123456789.987654321;` |
-3) Double Datatype
+
+3) **Double data type**
  Double datatype is used to represent double-precision floating-point numbers. It is a 64-bit data type.It provides greater precision than the float data type.
 
-4) Character Datatype
+4) **Character data type**
 
 | Data Type            | Description                                  | Example                       |
 |-----------------------|----------------------------------------------|-------------------------------|
@@ -73,9 +76,9 @@ store fractional part and its value.
 
 ### Derived datatype
 The data type which are created using the already exisiting primitive and fundamental types are known as derived data types.Examples:
-1) Array,
-2) Structure,
-3) union.
+1) Array
+2) Structure
+3) union
 
 | Derived Data Type | Description                                              | Example                                   |
 |-------------------|----------------------------------------------------------|-------------------------------------------|
