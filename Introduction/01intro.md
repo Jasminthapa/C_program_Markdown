@@ -7,9 +7,9 @@ keywords = ""what is C programming, why you should learn C programming,  C intro
 
 ## Introduction Of C
 
-- C Programming is procedural oriented program , high level language.
-- Used in the devlopment of computer software and applications ,system programming,games,web devlopment,and may more.
-- Defined as the mother language,Structured programming  language,Mid-level programming language.
+- C Programming is procedural oriented program, high level language.
+- Used in the devlopment of computer software and applications, system programming, games, web devlopment ,and may more.
+- Defined as the mother language, Structured programming  language, Mid-level programming language.
 
 {{% notice info %}}
 **Note**: The concept you will learn here will give you a solid understanding of C and improve your coding career.
