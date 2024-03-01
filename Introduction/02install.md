@@ -1,5 +1,5 @@
 ### Installation of C using DevC++ for windows
-###Download and Install Dev-C++:
+### Download and Install Dev-C++:
 - Go to the Dev-C++ website: Dev-C++ Download
 - Download the Dev-C++ installer.
 - Run the downloaded installer and follow the installation instructions.
