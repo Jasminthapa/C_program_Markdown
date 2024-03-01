@@ -1,9 +1,8 @@
 +++ title = "User Input in C" weight = 8 description = "Instead of writing hard-coded values, you can use user input in C. It will make your program more dynamic. Learn to take a string, integer, or double user input." keywords = "user input C, how to take user input in C, C user input" +++
 
-
 ### User Input In C
 Instead of writing hard-coded values, you can give input to the computer.It allows for  enabling customization, flexibility, and dynamic behavior. Programming language provide many built-in functions present in C header files.
-Thr I/O functions that are used in C are:
+The I/O functions that are used in C are:
 1) scanf() and printf() functions
 2) getschar() and putchar() functions
 3) gets and puts
