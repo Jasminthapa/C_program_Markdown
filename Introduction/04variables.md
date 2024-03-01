@@ -21,7 +21,7 @@ For eg:
 - int:Used for storing whole numbers.e.g:10, -10, 996
 - float:Used for storing decimal numbers with single precision.E.g.10.0, -10.2, 85.698 etc.
 - double:Used for storing decimal numbers with double precision.E.g.3.14159, 4.3335 etc.
-char:Used for storing individual characters.E.g.'A','B'etc.
+  char:Used for storing individual characters.E.g.'A','B'etc.
 - Bool:Used for storing true or false values.E.g. true, false [Only stores true or false values]
 
 
