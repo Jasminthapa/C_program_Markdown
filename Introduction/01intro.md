@@ -5,7 +5,7 @@ description = "C is a procedural-oriented high-level language .Explore its origi
 keywords = ""what is C programming, why you should learn C programming,  C introduction, C programming introduction."
 +++
 
-# Introduction Of C
+## Introduction Of C
 
 - C Programming is procedural oriented program , high level language.
 - Used in the devlopment of computer software and applications ,system programming,games,web devlopment,and may more.
@@ -15,20 +15,20 @@ keywords = ""what is C programming, why you should learn C programming,  C intro
 **Note**: The concept you will learn here will give you a solid understanding of C and improve your coding career.
 {{% /notice% %}}
 
-## History of C
+### History of C
 - It was devloped by Dennis Ritchie at bell laboratories in 1972.
 - It was devloped to write the UNIX operating system.
 
-## Features of C
+### Features of C
 - Supports modular programming.
 - faster than other programming language.
 - widely used in system programming.
 - Using DMA provides efficient memory management.
 
-# Which Is The Best Code Editor For C Programming
+### Which Is The Best Code Editor For C Programming
 - The best code editor is VS Code if you want to run the C program from a computer or laptop. You can download the dart extension from VS Code and start coding. You will learn more about installing C in the next topic. You can also use DartPad to run simple C programs in (https://www.tutorialspoint.com/compile_c_online.php) without installing anything.
 
-# Basic Programming Terms
+### Basic Programming Terms
 Important words that you often hear while learning programming languages.
 
 - **Statements**: A statement is a command that tells a computer to do something. In C, you can end most statements with a semicolon `;`.
@@ -39,7 +39,7 @@ Important words that you often hear while learning programming languages.
 - **Low-Level Programming Language**: Low-level programming language is hard to learn, non-user friendly, and deals with computer hardware components, e.g., machine and assembly language.
 - **Syntax**: The Syntax is a programming language’s pattern or rules that give the concept to code.
 
- # Key points
+ ## Key points
 - C is a procedural programming language designed for developing system software like operating systems, compilers, and utilities.
 - It's open-source and available on many platforms, including Linux, macOS, and Windows.
 - C provides a rich standard library includes functions for handling I/O operations, string manipulations.
