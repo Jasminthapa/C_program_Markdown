@@ -24,8 +24,10 @@ printf("%d",num);
 printf("c",letter);
 }
 ```
+
 ### Built-In Types
 In C language, there is the type of values that can be represented and manipulated. The data type classification is as given below:
+
 ### Fundamental datatype
 These are the basic datatypes are used in c. Primary data types are the basic building blocks for representing different kinds of values. There are diffrent kinds of fundamental datatype:
 1) int
