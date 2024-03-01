@@ -44,7 +44,8 @@ These are the basic datatypes are used in c. Primary data types are the basic bu
 
 1) **Integer datatype**
 
-Integer data types are used to store whole number.In C, the signed are used to  and unsigned modifiers are used to store both positive and negative values and  unsinged are store only non-negative values.
+   Integer data types are used to store whole number.In C, the signed are used to  and unsigned modifiers are used to store both positive and negative values and  
+   unsinged are store only non-negative values.
 
 | Data Type                 | Description                                               | Example                                   |
 |---------------------------|-----------------------------------------------------------|-------------------------------------------|
@@ -56,7 +57,7 @@ Integer data types are used to store whole number.In C, the signed are used to  
 
 2) **Floating data type**
 
-store fractional part and its value.
+   Store fractional part and its value.
 
 | Data Type      | Description                                      | Example                     |
 |-----------------|--------------------------------------------------|-----------------------------|
@@ -65,7 +66,7 @@ store fractional part and its value.
 | `long double`   | Extended precision floating-point number.        | `long double bigValue = 123456789.987654321;` |
 
 3) **Double data type**
- Double datatype is used to represent double-precision floating-point numbers. It is a 64-bit data type.It provides greater precision than the float data type.
+   Double datatype is used to represent double-precision floating-point numbers. It is a 64-bit data type.It provides greater precision than the float data type.
 
 4) **Character data type**
 
