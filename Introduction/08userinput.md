@@ -6,6 +6,7 @@ The I/O functions that are used in C are:
 1) scanf() and printf() functions
 2) getschar() and putchar() functions
 3) gets and puts
+ 
 
 1) **scanf() and printf() functions**
 - In C programming,scanf() and printf() functions are basic function .We can use them by using #include<stdio.h> directive.
