@@ -14,7 +14,7 @@ void main() {
 ```
 ### Basic C Program Explained
 - We need to use #include<stdio.h>inoder to provides functions like printf() for output and scanf() for input, allowing you to display messages to the user and read input from the keyboard.
--int main() is the starting point where the execution of your program begins.
+- int main() is the starting point where the execution of your program begins.
 - Every program starts with a main function.
 - The curly braces {} represent the beginning and the ending of a block of code.
 - Each code statement must end with a semicolon.
