@@ -9,7 +9,7 @@ The I/O functions that are used in C are:
 
 
 
-1) **scanf() and printf() functions**
+**scanf() and printf() functions**
 - In C programming,scanf() and printf() functions are basic function .We can use them by using #include<stdio.h> directive.
 **scanf()**  is used to get input from the user.Generally ,it is written as:
 ```c
@@ -44,9 +44,9 @@ int main() {
     return 0;
 }
 ```
-2) **getschar() and putchar() functions**
+**getschar() and putchar() functions**
 
-In C, getchar() and putchar() are functions used for character input and output, respectively.
+  In C, getchar() and putchar() are functions used for character input and output, respectively.
 - **getchar()** is a function in C that reads a single character and returns it as an integer representing the character's ASCII value.Syntax is given by:
 ```c 
 int getchar(void);
@@ -83,7 +83,7 @@ int main() {
 ```
 {{% notice info %}} Note:It takes a single character as an argument and prints it to the console.{{% notice info %}}
 
-3) **gets and puts**
+**gets and puts**
 In C programming,**gets()** and **puts()** are functions used for reading and writing strings to and from the standard input and output respectively.
 ```c
 #include <stdio.h>
