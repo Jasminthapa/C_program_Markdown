@@ -16,14 +16,13 @@ Simply,syntax of variables can be declared as
 Datatype variablename1,variablename2,.....;
 For eg: 
 - Variable can be String or numeric.
+
 ### Variable Types
 - int:Used for storing whole numbers.e.g:10, -10, 996
 - float:Used for storing decimal numbers with single precision.E.g.10.0, -10.2, 85.698 etc.
-- double:Used for storing decimal numbers with double precision.E.g.3.14159,4.3335 etc.
+- double:Used for storing decimal numbers with double precision.E.g.3.14159, 4.3335 etc.
 char:Used for storing individual characters.E.g.'A','B'etc.
-- Bool:Used for storing true or false values. E.g. true, false [Only stores true or false values]
-
-
+- Bool:Used for storing true or false values.E.g. true, false [Only stores true or false values]
 
 
 ### Example
@@ -51,6 +50,7 @@ int main() {
 ```
 {{% notice info %}}**Note**:Here \n is used for next line.
 {{% /notice %}}
+
 ### Rules for writting variables In C**
 - Must begin with alphabets or an underscore.
 - The lowercase and uppercase are different.For eg:name and Name is different.
