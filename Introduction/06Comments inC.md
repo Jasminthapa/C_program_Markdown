@@ -6,11 +6,13 @@ keywords = "C programming, comments in C, single-line comments, multi-line comme
 +++
 ### Comments In C
 Comments are the set of statements that are ignored by the dart compiler during program execution. They are used to explain the code so that you or other people can understand it easily.
+
 ### Advantages of Comments
 - Other people will understand your code more clearly.
--We  can describe our code. 
+- We  can describe our code.
+
 ### Types of Comments
-- **Single-Line Comment**:
+**Single-Line Comment**:
 For commenting on a single line of code.Single-line comments start with // and continue until the end of the line.
 ```
 // This is a single-line comment
